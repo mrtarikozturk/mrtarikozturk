@@ -30,7 +30,7 @@
 <img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/vs.png" width="25" height="25">
 <p/>
 
-<a href="https://open.spotify.com/embed/artist/3BgTkkhgEvNt2S7t9QcsPZ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media">
+<a href="https://open.spotify.com/playlist/0PpZy2r4FRznInt9dzv21B?si=m_6QpTT7QjCxyqsIQ0qeAA">
     <img src="https://status.nmoo.dev/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 
