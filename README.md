@@ -30,7 +30,4 @@
 <img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/vs.png" width="25" height="25">
 <p/>
 
-<a href="">
-    <img src="https://status.nmoo.dev/now-playing" width="256" height="64" alt="Now Playing">
-</a>
 
