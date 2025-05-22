@@ -22,18 +22,18 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Tarik Ozturk, Software Developer.
+  Hi, I'm Tarik Ozturk, Software Engineer.
   <br>
-  <br>
-  🔬 I'm currently working as React Native Developer
-  <br>
-  🎓 I graduated from Bilge Adam Technology
+<!--   <br>
+  🔬 I'm currently working as .Net Software Engineer.
+  <br> -->
+  🎓 I graduated from Hogeschool van Amsterdam.
   <br>
   🎓 I graduated from Clarusway Full Stack Development Bootcamp
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning Azure Cloud Technology.
+  📚 I’m currently learning Azure Cloud Technology and AI.
   <br>
   💬 Ask me anything about from <a href="https://github.com/mrtarikozturk/mrtarikozturk/issues" title="Issues">Here</a>
   <br>
